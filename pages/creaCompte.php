@@ -153,7 +153,7 @@ if (!empty($_POST))
     <main>
         <section class="connexion">
             <div class="gauche">
-                <img src="../images/imgCreation" alt="connexion">
+                <img src="../images/imgCreation.png" alt="connexion">
             </div>
 
             <div class="droite">
