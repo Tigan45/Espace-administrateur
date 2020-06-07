@@ -65,11 +65,11 @@ if (isset($_GET['disconnected'])) // A FAIIRE
 				<h2>Se connecter</h2>
 				<form method="post" action="login.php">
 					<div class="btn">
-						<label for="mail"><img src="images/iconMail" alt="icone mail" width="20px"></label>
+						<label for="mail"><img src="images/iconMail.png" alt="icone mail" width="20px"></label>
 						<input type="email" name="mail" id="mail" placeholder="Votre mail">
 					</div>
 					<div class="btn">
-						<label for="password"><img src="images/iconPassword" alt="icone password" width="15px"></label>
+						<label for="password"><img src="images/iconPassword.png" alt="icone password" width="15px"></label>
 						<input type="password" name="mdp" id="mdp" placeholder="Mot de passe">
 					</div>
 					<?php 

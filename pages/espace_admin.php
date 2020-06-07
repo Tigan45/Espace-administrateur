@@ -22,7 +22,7 @@ if (empty($_SESSION))
     <main>
         <section class="connexion">
             <div class="gauche">
-                <img src="../images/imgConnexion" alt="connexion">
+                <img src="../images/imgConnexion.jpg" alt="connexion">
             </div>
 
             <div class="droite">

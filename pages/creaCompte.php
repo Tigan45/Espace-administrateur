@@ -198,23 +198,23 @@ if (!isset($succes))
                     </div>
 
                     <div>
-                        <label for="nom"><img src="../images/iconFirstName" alt="icone prenom" width="20px"></label>
+                        <label for="nom"><img src="../images/iconFirstName.png" alt="icone prenom" width="20px"></label>
                         <input type="text" name="nom" id="nom" placeholder="Nom" value="<?php echo($nom); ?>">
                     </div>
 
                     <div>
-                        <label for="prenom"><img src="../images/iconName" alt="icone nom" width="20px"></label>
+                        <label for="prenom"><img src="../images/iconName.png" alt="icone nom" width="20px"></label>
                         <input type="text" name="prenom" id="prenom" placeholder="Prénom"
                             value="<?php echo($prenom); ?>">
                     </div>
 
                     <div class="btn">
-                        <label for="mail"><img src="../images/iconMail" alt="icone mail" width="20px"></label>
+                        <label for="mail"><img src="../images/iconMail.png" alt="icone mail" width="20px"></label>
                         <input type="email" name="mail" id="mail" placeholder="Mail" value="<?php echo($mail); ?>">
                     </div>
 
                     <div class="btn">
-                        <label for="mdp"><img src="../images/iconPassword" alt="icone password" width="15px"></label>
+                        <label for="mdp"><img src="../images/iconPassword.png" alt="icone password" width="15px"></label>
                         <input type="password" name="mdp" id="mdp" placeholder="Mot de passe (< 8, !, #,$, *, ?, @)"
                             value="<?php echo($mdp); ?>">
                     </div>
