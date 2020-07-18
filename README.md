@@ -24,13 +24,13 @@ Après connexion :
 * Toutes les pages accessibles après connexion ne pourront pas être affichées sans connexion
 
 
-## Screenshot
+## Apercu
 
-![landingpage](assets/project_page.png "Designed by me")
+![page login](http://matisbaguelin.fr/images/projets/espace-administrateur.png "Page de login")
 
 ## Auteur & date
 
 * **Matis BAGUELIN**
 * **Maxime MUGNIOT**
 
-- *Mars 2020*
+*Mars 2020*
