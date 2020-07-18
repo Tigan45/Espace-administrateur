@@ -27,9 +27,8 @@ Après connexion :
 ## Apercu
 
 ![page login](http://matisbaguelin.fr/images/projets/espace-administrateur.png "Page de login")
-![page accueil](http://matisbaguelin.fr/images/projets/projet1/accueil.png "Page d'accueil")
 
-## Auteur & date
+## Auteur(s) & date
 
 * **Matis BAGUELIN**
 * **Maxime MUGNIOT**
