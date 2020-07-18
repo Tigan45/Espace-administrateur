@@ -5,10 +5,12 @@ Clique [ici](http://espace-admin.matisbaguelin.fr/login.php) pour visualiser le 
 L'objectif est de créer un espace d'administration permettant de générer automatiquement des fichiers HTML à partir d'un formulaire.
 Exercice de fin d'année en PHP pour revoir tout ce qu'on a vu depuis le début de l'année.
 
+
 ## Langages utilisés 
 
 * HTML5 / CSS3
 * PHP
+
 
 ## Instructions
 
@@ -24,9 +26,10 @@ Après connexion :
 * Toutes les pages accessibles après connexion ne pourront pas être affichées sans connexion
 
 
-## Apercu
+## Aperçu
 
 ![page login](http://matisbaguelin.fr/images/projets/espace-administrateur.png "Page de login")
+
 
 ## Auteur(s) & date
 
