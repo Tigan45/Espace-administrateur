@@ -3,7 +3,7 @@
 Clique [ici](http://espace-admin.matisbaguelin.fr/login.php) pour visualiser le projet. *(mail : visiteur@gmail.com / mot de passe : Visite123!)*
 
 L'objectif était de créer un espace d'administration permettant de générer automatiquement des fichiers HTML à partir d'un formulaire.
-Exercice de fin d'année en PHP pour revoir tout ce qu'on a vu depuis le début de l'année.
+Exercice de fin d'année en PHP pour revoir tout ce qu'on avait vu depuis le début de l'année.
 
 
 ## Langages utilisés 
