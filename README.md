@@ -15,11 +15,11 @@ Exercice de fin d'année en PHP pour revoir tout ce qu'on avait vu depuis le dé
 ## Instructions
 
 * Formulaire de connexion par mail et mot de passe
-* La liste des comptes utilisateurs sera accessible dans un fichier CSV appelé "comptes.csv" 
+* Liste des comptes utilisateurs accessible dans un fichier CSV appelé "comptes.csv" 
 
 Après connexion :
 * Formulaire de création d'un nouveau compte administrateur : civilité , nom, prénom, mail, mot de passe, photo
-* La photo sera uploadée sur le serveur sous la forme photo-nom.jpg
+* Photo a uploader sur le serveur sous la forme photo-nom.jpg
 * Affichage des différents comptes administrateurs sur une page
 * Formulaire de génération d'une page HTML : nom du fichier, titre, description, h1, main
 * Pour le main, utilisation de TinyMCE, éditeur WYSIWYG
