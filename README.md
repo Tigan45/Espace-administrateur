@@ -28,7 +28,7 @@ Après connexion :
 
 ## Aperçu
 
-![page login](http://matisbaguelin.fr/images/projets/espace-administrateur.png "Page de login")
+![page login](/images/preview.jpg "Page de login")
 
 
 ## Auteur(s) & date
